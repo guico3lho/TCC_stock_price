@@ -1,0 +1,205 @@
+y_test,y_pred,correct,title
+0,1,Incorrect,magazine luiza acao indicada investir semana veja ranking
+0,0,Correct,ibovespa engata <NUM> alta fecha acima <NUM> mil pontos ajuda externa
+1,1,Correct,dividendos petrobras valem risco investir estatal
+0,0,Correct,petroleiros norte fluminense aprovam acordo petrobras
+0,0,Correct,diretor governanca conformidade petrobras planeja renunciar dizem fontes
+1,1,Correct,confira carteiras acoes dividendos small caps mirae fevereiro
+1,0,Incorrect,oferta secundaria br distribuidora pode <NUM> maior desde <NUM>
+0,0,Correct,petrobras promove leves ajustes pontuais precos diesel
+0,0,Correct,petrobras diz campo tupi produziu <NUM> bilhoes barris petroleo julho
+0,0,Correct,bolsonaro reafirma intencao levar bolsa familia <NUM>
+1,0,Incorrect,a retomada lucro empresas dispara <NUM> cento <NUM> trimestre
+0,0,Correct,ceo petrobras defende desinvestimentos refino audiencia camara
+1,0,Incorrect,vibra ipiranga raizen vao brigar si concorrentes etanol derivados petroleo
+0,0,Correct,o bolsonaro acha dono petrobras diz exmenos ceo castello branco
+1,0,Incorrect,ibovespa sobe <NUM> cento dia baixa commodities btg bpac11 lidera altas
+1,0,Incorrect,ibovespa recuperacao leve investidor segue atento china
+0,0,Correct,vazamento global dados <NUM> mi senhas emenos mails brasileiros expostas
+1,0,Incorrect,petrobras petr4 producao petroleo cai <NUM> cento 1t21 venda ativos
+1,0,Incorrect,formacao conselho petrobras petr4 ainda pode ter reviravolta
+0,0,Correct,petrobras prova boa gestao compensa prejuizo bilionario
+1,0,Incorrect,petrorio sobe <NUM> cento meio greve caminhoneiros pedido desculpas bolsonaro
+1,0,Incorrect,ibovespa avanca apoio exterior positivo
+1,0,Incorrect,ibovespa derrete atinge minima ano caso evergrande vale vale3 despenca <NUM> cento
+1,0,Incorrect,diesel aproxima <NUM> litro postos aponta ticket log
+1,0,Incorrect,ibovespa cede cautela domestica dados china cogna cogn3 desaba <NUM> cento
+1,0,Incorrect,menor tensao china resgata ibovespa minima <NUM> meses antes fed copom
+0,0,Correct,ibovespa fecha alta recua semana fiscal sellmenos off nova york
+1,0,Incorrect,petrobras petr4 diz atingiu recorde mundial regaseificacao gnl
+1,0,Incorrect,ibovespa recua liderado naturaco magazine luiza dia cheio balancos
+1,0,Incorrect,ibovespa recua apos bc sinalizar alta rapida selic
+0,0,Correct,petrobras petr4 credit suisse eleva precomenos alvo recomenda compra acoes disparam <NUM> cento
+1,0,Incorrect,ibovespa alta <NUM> cento eleicao biden otimismo vacina gol azul sobem quase <NUM> cento
+1,0,Incorrect,petrobras petr4 deve concluir venda bauna karoon outubro
+0,0,Correct,ibovespa sucumbe piora externa fecha queda
+1,0,Incorrect,uniao <NUM> milhoes barris petroleo contratos partilha
+0,0,Correct,ibovespa fecha queda receio fiscal espera copom bradesco cai
+0,0,Correct,ibovespa queda livre dessa vez problema minerio ferro
+0,0,Correct,ibovespa fecha alta renova maxima desde fevereiro emenos commerce destaque
+0,1,Incorrect,petrobras petr4 pode aumentar dividendos ainda <NUM> diz agencia
+1,1,Correct,petrobras diz futura transacao fatia braskem demanda assessoria financeira
+0,0,Correct,refinaria duque caxias vai ampliar producao diesel smenos <NUM>
+0,0,Correct,recuo precos gasolina pode fazer etanol ceder pouco seguir competitivo
+0,0,Correct,receio sobre intervencao politica impulsiona dolar bc ameniza pressao
+0,0,Correct,ibovespa mostra indefinicao recorde proximo
+0,1,Incorrect,terra aproveita derrocada bolsa traz acoes bons pontos entrada carteira novembro
+0,0,Correct,ibovespa fecha alta <NUM> cento vale vale3 wall st
+0,0,Correct,onda ipos brasil pode sofrer piora risco politico veem especialistas
+0,1,Incorrect,ibovespa flerta <NUM> mil pontos apos pib acima esperado
+1,1,Correct,confira duas acoes indicadas semana <NUM> corretoras
+1,1,Correct,petrobras petr4 vale vale3 btg bpac11 agitam mercado
+0,1,Incorrect,mirae troca itausa usiminas carteira recomendada semana
+0,0,Correct,nova onda semanal forte remarcacao cascata precos etanol hidratado
+0,0,Correct,ibovespa esvazia perdas fim sessao encerra semana vermelho
+0,0,Correct,eletrobras ve deficit <NUM> bi fundos pensao
+1,0,Incorrect,ibovespa abre alta banco inter bidi4 recuperando apos tombos
+0,1,Incorrect,camil deve pagar bons dividendos <NUM> diz ativa veja carteira corretora janeiro
+1,0,Incorrect,ministro stf anula condenacao trabalhista bilionaria imposta petrobras
+0,0,Correct,investidores cobram <NUM> bi petrobras petr4 processos arbitragem
+0,0,Correct,ibovespa intensifica perdas apos abertura negativa wall street
+0,0,Correct,poco seco shell ofusca exploracao petroleo brasil
+0,0,Correct,ibovespa fecha alta discreta apoiado acoes commodities
+0,0,Correct,petrobras reduz preco gas distribuidoras revisao trimestral
+0,0,Correct,presidente petrobras diz empresa atenta demandas sociedade acompanhe
+0,0,Correct,bolsonaro volta falar privatizar petrobras diz estatal atende apenas acionistas
+1,1,Correct,ibovespa maior queda quase <NUM> meses conta variante omicron
+1,0,Incorrect,investigacao criminal brasil foca atuais executivos trafigura
+0,0,Correct,mycap muda metade carteira recomendada acoes maio veja novidades
+1,0,Incorrect,ibovespa fecha queda ruido fiscal petrobras wall street limitam perda
+1,0,Incorrect,ibovespa fecha alta <NUM> cento eua resultados corporativos radar
+1,0,Incorrect,petrobras eleva precos diesel gasolina
+1,0,Incorrect,petrobras petr4 inicia venda gasoduto bolivia fecha escritorio londres
+1,0,Incorrect,governo discute capitalizar fundo estabilizacao combustiveis acoes diz guedes
+0,0,Correct,ibovespa perde folego preocupacoes domesticas br distribuidora contraponto positivo
+0,0,Correct,ibovespa avanca apos pec passar camara ny reduz folego
+1,1,Correct,petrobras acoes baratas dividendos vale risco
+0,0,Correct,programa petrobras mais valor alcanca <NUM> bilhoes operacoes realizadas
+0,0,Correct,petrobras petr4 silva luna valor diz bolsonaro
+1,1,Correct,com tensao greve caminhoneiros bolsonaro fala zerar pismenos cofins diesel
+1,0,Incorrect,ibovespa sobe firme apos ipca abaixo esperado impulsionado exterior
+0,1,Incorrect,raizen raiz4 meliuz cash3 petrobras petr4 chamam atencao mercado
+0,0,Correct,veja <NUM> principais noticias operar bolsa nesta segunda
+1,0,Incorrect,petrobras petr4 demite executivo suspeita uso informacao privilegiada
+0,1,Incorrect,petrobras espera acordo quarta arrendar terminal bahia
+0,0,Correct,petrobras petr4 conclui teste area jupiter bacia santos
+0,0,Correct,ibovespa fecha queda discreta apos flertar <NUM> mil pontos
+1,0,Incorrect,petrobras petr4 mesmo barata acao bom negocio dizem especialistas
+1,0,Incorrect,comissao debate divida petrobras fundacao seguridade servidores
+0,0,Correct,dolar avanca <NUM> cento aversao risco apos intervencao petrobras petr4
+0,0,Correct,bolsonaro nega interferencia petrobras defende valor fixo icms sobre combustiveis
+1,1,Correct,com aval externo ibovespa recupera patamar <NUM> mil pontos dia vencimentos
+0,0,Correct,pessimismo china quadro fiscal domestico levam ibovespa minima desde maio
+1,0,Incorrect,ibovespa encerra alta <NUM> cento cotado 96582pontos
+0,0,Correct,petrobras petr4 cai <NUM> cento perde valor jbs jbss3 meio dia
+0,0,Correct,cenario interno externo ajuda ibovespa desaba quase <NUM> cento
+0,0,Correct,ibovespa comeca agosto vies claro quatro meses alta retrovisor
+0,0,Correct,lava jato acionistas preparam nova ofensiva contra petrobras tribunais holanda
+1,0,Incorrect,ibovespa fecha alta <NUM> cento puxada petrobras petr4 bancos meio alivio politico
+1,0,Incorrect,tombo petroleo pega etanol alta usina congela expectativas
+0,0,Correct,petrobras obtem licenca instalacao plataforma mero <NUM>
+0,0,Correct,ibovespa indice sobe zera perdas ano expectativas sobre vacinas contra covidmenos <NUM>
+1,1,Correct,dividendos petrobras paga proventos nesta quarta veja condicoes
+0,0,Correct,ibovespa mostra indefinicao segue redor <NUM> mil pontos vale recua
+1,0,Incorrect,petrobras petr4 assina contrato compartilhamento escoamento gas
+0,0,Correct,estatais setores regulados podem voltar niveis preco recessao alertam especialistas
+1,0,Incorrect,as <NUM> acoes favoritas <NUM> analistas enterrar agosto sair setembro lucro
+0,0,Correct,ibovespa fecha alta novo recorde intradia deve encerrar <NUM> terreno positivo
+1,0,Incorrect,por pensar ousadamente sobre petrobras diz guedes sobre privatizacao
+0,0,Correct,apos pausa vespera ibovespa volta subir puxado blue chips
+1,1,Correct,ibovespa fecha queda exterior conserva <NUM> mil pontos
+1,0,Incorrect,petrobras fecha contrato <NUM> milhoes fornecer gas furnas
+1,0,Incorrect,ibovespa futuro recua aversao risco externa cena politica tumultuada
+0,0,Correct,petroleo dispara leva junto petrorio petroreconcavo
+1,0,Incorrect,ibovespa fecha queda declinio ny recuo commodities
+1,0,Incorrect,<NUM> acoes casca grossa proteger turbulencia brasileira
+1,0,Incorrect,anp abre consulta sobre indicacao areas licitacao
+0,0,Correct,conselho petrobras elege rodrigo silva novo diretor refino gas
+0,0,Correct,caminhoneiros preparam protestos neste domingo meio riscos greve
+1,0,Incorrect,dados desemprego jogam balde agua fria ibovespa
+0,0,Correct,gas cozinha petrobras sobe quase <NUM> cento partir segunda
+1,1,Correct,xp remove marfrig mrfg3 carteira dezembro
+0,0,Correct,governo planeja criar valemenos gas familias baixa renda
+1,0,Incorrect,ibovespa esboca recuperacao apos pior semana desde inicio pandemia
+0,0,Correct,sabesp sbsp3 nega presidente petrobras petr4 assumira comando
+0,1,Incorrect,ibovespa fecha alta exterior apos sessao instavel
+0,0,Correct,cosan csan3 petrobras negou proposta compass gaspetro
+0,0,Correct,ibovespa fecha queda ajustes magazine luiza sobe apos aquisicao bilionaria
+1,0,Incorrect,petrobras petr4 aprova contratacao <NUM> fpsos campo buzios
+0,1,Incorrect,ibovespa oscila torno estabilidade acoes commodities lideram ganhos
+0,0,Correct,ibovespa supera <NUM> mil pontos apoiado commodities bolsas internacionais
+0,0,Correct,petrobras petr4 novo plano menos oleo valor diz btg
+1,1,Correct,btg lanca etf foco acoes brasileiras ligadas commodities
+1,0,Incorrect,petrobras sair definitivamente br distribuidora bom ambas
+0,0,Correct,petrobras petr4 inicia fase vinculante venda albacora
+1,1,Correct,comissao vai acompanhar acoes combate fraudes setor combustiveis
+0,1,Incorrect,petrobras ve salto vendas petroleo exterior <NUM> queda brasil
+0,0,Correct,ibovespa fecha queda liderada iguatemi apos balanco
+0,0,Correct,ogci estabelece nova meta emissao carbono afirma petrobras
+1,0,Incorrect,veja <NUM> principais noticias operar bolsa nesta quinta
+1,0,Incorrect,producao petroleo pais fica quase estavel setembro petrobras ve recuo <NUM> cento
+0,1,Incorrect,raizen raiz4 3r petroleum rrrp3 braskem brkm5 destaques
+0,0,Correct,petrobras ve salto demanda termica gas ainda busca normalizar oferta
+0,1,Incorrect,crenca demanda leva braskem carteira acoes mirae maio
+0,0,Correct,ibovespa cai <NUM> cento pior semana desde fim outubro
+1,0,Incorrect,ibovespa segue piora nova york recua quase <NUM> cento bancos saltam
+1,0,Incorrect,ibovespa fecha alta expectativa camara mantenha veto reajuste servidores
+1,1,Correct,ibovespa ensaia melhora cautela feriado desmotiva compras
+1,1,Correct,xp substitui marfrig petrobras carteira recomendada dezembro
+1,1,Correct,ibovespa abre alta <NUM> cento opera acima <NUM> mil pontos
+1,0,Incorrect,ibovespa fecha queda apos fed projetar alta juros <NUM>
+1,1,Correct,goldman sachs preve aumento producao petroleo brasil <NUM>
+0,0,Correct,ibovespa busca <NUM> alta seguida itau suzano destaque mes ronda <NUM> cento
+0,0,Correct,petrobras diz distribuidoras atendera <NUM> cento demanda diesel marco
+0,0,Correct,ibovespa fecha queda receios sobre cena politica
+0,0,Correct,petrobras relata oferta recorde gnl regaseificado meio esforcos contra crise hidrica
+1,0,Incorrect,vitol fecha acordo eua evitar acao sobre propinas pagas brasil
+0,0,Correct,instabilidade politica petrobras sentida nova york chega acucar adrs
+1,0,Incorrect,resultados semana destaque vale vale3 csn csna3 santander sanb11
+1,1,Correct,novo plano petrobras vai prever reflorestamento compensar emissoes
+0,0,Correct,ibovespa avanca dia agenda intensa caixa seguridade estreia alta
+0,0,Correct,petrobras unigel fecham contrato gas natural fabricas fertilizantes
+1,0,Incorrect,petrobras diz antecipa decisoes sobre reajustes apos fala bolsonaro
+0,0,Correct,ibovespa cai <NUM> cento dia baixa liquidez ambev abev3 sobe <NUM> cento
+0,1,Incorrect,petrobras convoca processo acesso excepcional terminal gnl pecem
+1,0,Incorrect,esgb11 etf esg btg pactual estreia vale petrobras jbs
+0,0,Correct,exxon ve boa oportunidade brasil producao petroleo menor emissao
+0,0,Correct,congresso vai discutir projeto sobre valor fixo icms sobre combustiveis diz lira
+1,1,Correct,com aval ny ibovespa avanca sessao ajustes apos feriado
+0,0,Correct,ibovespa fecha quase estavel sustenta <NUM> mil pontos dia wall street
+0,0,Correct,bolsonaro diz quer fechar nesta segunda proposta reduzir imposto sobre combustiveis
+0,0,Correct,ibovespa mostra hesitacao wall street pao acucar dispara petrobras recua
+0,0,Correct,petrobras petr4 volta aumentar precos gasolina diesel
+0,0,Correct,metade <NUM> acoes favoritas analistas outubro voando bolsa <NUM>
+0,0,Correct,confaz aprova congelamento icms sobre vendas combustiveis <NUM> dias
+1,0,Incorrect,petrobras petr4 anuncia reducao <NUM> cento precos gasolina
+1,0,Incorrect,preco combustiveis senadores questionam presidente petrobras criticam aumentos
+1,0,Incorrect,petrobras prepara nova emissao titulos anuncia oferta recompra
+0,0,Correct,acucar bruto atinge maxima <NUM> anos ice pico precos energia
+1,0,Incorrect,estados apontam perda <NUM> bi projeto muda icms sobre combustiveis
+0,0,Correct,petrobras petr4 anuncia novos reajustes gasolina diesel
+0,0,Correct,quais acoes comprar agosto a mirae resposta duvida
+0,0,Correct,petrobras petr4 glp sobe antes ajuste volta custar <NUM> botijao <NUM> kg
+0,0,Correct,silva luna conseguira implantar solucao precos petrobras
+1,1,Correct,ibovespa volta <NUM> mil pontos alta minerios
+1,1,Correct,magazine luiza guia alta ibovespa sessao balancos pec sob holofotes
+1,1,Correct,petrobras petr4 impedida distribuir dividendos apos justica acatar pedido fup
+0,0,Correct,petrobras petr4 anuncia aumento gasolina diesel gas cozinha
+1,0,Incorrect,ibovespa sobe investidor olho pacote trilionario estimulo eua
+1,0,Incorrect,ibovespa sobe <NUM> sessao petrobras alta apos fala bolsonaro
+1,0,Incorrect,raizen raiz4 assai asai3 petrobras petr4 destaques
+0,0,Correct,efeito lula candidato derruba bolsa faz dolar disparar <NUM>
+1,0,Incorrect,economia da forca ibovespa dispara <NUM> cento
+1,0,Incorrect,ibovespa sobe pacote economico radar cena externa ajuda
+0,1,Incorrect,<NUM> melhores acoes dividendos investir julho segundo santander
+1,0,Incorrect,destaques empresas braskem brkm5 vale vale3 petrobras petr4
+0,0,Correct,agenda dia yduqs petrobras tecnisa marisa jhsf
+0,0,Correct,general silva luna confirmado comando petrobras
+1,0,Incorrect,fantasma evergrande volta assombrar ibovespa cai apos <NUM> altas
+1,0,Incorrect,ibovespa acompanha alta exterior omicron radar
+0,0,Correct,rebalanceamento ibovespa segunda previa duratex petz novidades
+1,0,Incorrect,ibovespa fecha alta nova york reduz impeto
+1,0,Incorrect,petrobras reduz diesel gasolina refinarias <NUM> centavoslitro
+1,0,Incorrect,ibovespa fecha alta recuperacao wall street alta petroleo
+1,0,Incorrect,petrobras utilizara tecnologia reduzir custos producao oleo gas
+1,0,Incorrect,petrobras petr4 rebate bolsonaro diz nao nenhuma decisao reajuste
