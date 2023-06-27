@@ -1,5 +1,0 @@
-model_name,best_score,best_estimator,best_params
-KNeighborsClassifier,0.5597221601822486,"KNeighborsClassifier(metric='cosine', n_neighbors=23, weights='distance')","{'metric': 'cosine', 'n_neighbors': 23, 'weights': 'distance'}"
-SVC,0.574468813746073,SVC(C=1),{'C': 1}
-MultinomialNB,0.5739298104554726,MultinomialNB(alpha=10),"{'alpha': 10, 'fit_prior': True}"
-LogisticRegression,0.5755765995145993,"LogisticRegression(C=0.1, solver='sag')","{'C': 0.1, 'penalty': 'l2', 'solver': 'sag'}"

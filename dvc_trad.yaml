@@ -31,6 +31,8 @@ stages:
     deps:
       - assets/trad_assets/cv_vec.pkl
       - assets/trad_assets/tfidf_vec.pkl
+      - assets/data/splits/train/preprocessed.csv
+      - assets/data/splits/val/preprocessed.csv
 
     outs:
       - assets/trad_assets/cv_set.pkl # contains cv vec and 4 models
@@ -41,6 +43,7 @@ stages:
     deps:
       - assets/trad_assets/cv_set.pkl
       - assets/trad_assets/tfidf_set.pkl
+      - assets/data/splits/test/preprocessed.csv
     outs:
       - assets/trad_assets/trad_results.csv # or graph similar to the one in the paper
 
